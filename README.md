@@ -15,4 +15,4 @@
 
 # Demo
 
-Check out the live demo of the application at [https://rakesh0145.github.io/Meal-Apps/]
+Check out the live demo of the application at [https://rakesh0145.github.io/Meal-App/]
